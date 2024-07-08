@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Redesigned notifications",
+    "date": "Aug 10, 2024",
+    "chiplabel": "Feat",
+    "description": "Customizing your notification settings is now easier than ever. Quickly change your settings using presets like Focused or Mentions only, or tailor them to fit your needs.",
+    "image": "/images/img1.png"
+  },
+  {
+    "id": 2,
+    "title": "Bugs",
+    "date": "Jul 23, 2024",
+    "chiplabel": "Fix",
+    "description": "In our continuous effort to make Hirefy the most reliable recruiting platform, we eliminate bugs in the platform! 🚫Here's a summary of some of the major fixes:",
+    "content": [
+      {
+        "id": 1,
+        "text": "Unable to attach PDF to tasks using the Adobe integration."
+      },
+      {
+        "id": 2,
+        "text": "The total contract time between talent and clients cannot be updated."
+      },
+      {
+        "id": 3,
+        "text": "Some files are not loading when uploaded to portfolio."
+      },
+      {
+        "id": 4,
+        "text": "You cannot update the company photo."
+      },
+      {
+        "id": 5,
+        "text": "You cannot update the job post list from the talent dashboard."
+      },
+      {
+        "id": 6,
+        "text": "The marketplace filters were not working correctly, they duplicated cards."
+      },
+      {
+        "id": 7,
+        "text": "Users could enter a talent's portfolio without having to log in."
+      },
+      {
+        "id": 8,
+        "text": "Homepage: new images with correct shadows."
+      },
+      {
+        "id": 9,
+        "text": "Email Hirefy signatures displayed incorrect padding."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Redesigned notifications",
+    "date": "Aug 10, 2024",
+    "chiplabel": "Feat",
+    "description": "In our continuous effort to make Hirefy the most reliable recruiting platform, we eliminate bugs in the platform! 🚫Here's a summary of some of the major fixes:",
+    "image": "/images/img2.png"
+  }
+]
