@@ -2,7 +2,7 @@ import React from "react";
 
 const NavNotes = () => {
   return (
-    <div className="hidden md:col-span-4 md:block space-y-4 mt-5">
+    <div className="col-span-12 md:col-span-4 md:block space-y-4 mt-5">
       <h3 className="text-2xl text-black font-bold">All release notes</h3>
       <ul className="space-y-4">
         {Array.from({ length: 10 }).map((_, index) => (
