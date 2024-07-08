@@ -16,7 +16,7 @@ const App: React.FC = () => {
     <section className="min-h-screen items-center justify-center bg-white">
       <Header />
 
-      <div className="grid grid-cols-12">
+      <div className="grid grid-cols-12 mt-8">
         <TimeLine data={data} />
         <NavNotes />
       </div>
